@@ -1,0 +1,13 @@
+token="466895478:AAE-yeNYIQ13Wwqo3bK-b53XVnSfgDxlCvM"
+ COUNTER=1
+while(true) do
+while true ; do
+
+curl "https://api.telegram.org/bot"$token"/sendmessage" -F
+./TG -s ./matrix.lua $@ --bot=$token
+
+sleep 5
+done
+let COUNTER=COUNTER+1
+done
+
