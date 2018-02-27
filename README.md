@@ -11,7 +11,7 @@
 <br> `redis-server`<br>
 <br>🌀¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي<br>
 
-<br>` git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
+<br>` git clone https://github.com/Hu-ck-er/dev-terex.git && cd dev-terex && chmod +x terex && ./keeper `<br>
 
 # <p align="center">لتنصيبه بالأكواد 
 ## افتح ترمنال وخلي الكود بعد كل كود انتر
